@@ -364,4 +364,6 @@ FodyWeavers.xsd
 
 # Unitysdk
 include/china/unitysdk/
+include/china/raw_dump.txt
 include/global/unitysdk/
+include/global/raw_dump.txt
